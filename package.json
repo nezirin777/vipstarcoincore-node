@@ -40,7 +40,7 @@
         "semver": "^7.5.3",
         "socket.io": "^4.7.2",
         "socket.io-client": "^4.7.2",
-        "zmq": "^5.2.0"
+        "zeromq": "^6.3.0"
     },
         "optionalDependencies": {
         "bufferutil": "~4.0.7",
