@@ -27,8 +27,8 @@
   ],
     "dependencies": {
         "async": "^3.2.4",
-        "vipstarcoind-rpc": "git://github.com/fkfk/vipstarcoind-rpc.git",
-        "vipstarcoin-lib": "git://github.com/fkfk/vipstarcoin-lib.git#master",
+        "vipstarcoind-rpc": "https://github.com/fkfk/vipstarcoind-rpc.git",
+        "vipstarcoin-lib": "https://github.com/fkfk/vipstarcoin-lib.git#master",
         "bitcore-lib": "^8.25.30",
         "body-parser": "^1.20.2",
         "colors": "^1.4.0",
@@ -40,7 +40,7 @@
         "semver": "^7.5.3",
         "socket.io": "^4.7.2",
         "socket.io-client": "^4.7.2",
-        "zeromq": "^6.3.0"
+        "zeromq": "6.0.0"
     },
         "optionalDependencies": {
         "bufferutil": "~4.0.7",
